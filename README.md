@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iabhaykaran
-- 👀 I’m interested in html,css,js,java,nod.js,react,
-- 🌱 I’m currently learning html,css,js
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me on twitter @iabhaykaran
+- 🎈 I'm bca Student.
+- 👀 I’m interested in html,css,js,node.js.
+- 🌱 I’m currently learning html,css and javascript.
+- 📫 connect with  me on twitter @iabhaykaran
 
 <!---
 iabhaykaran/iabhaykaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
